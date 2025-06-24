@@ -28,7 +28,6 @@ This project showcases practical use of:
 | **CSS3**   | Styling & responsive UI     |
 | **JavaScript (ES6)** | App logic, event handling, local storage |
 
-> This project is 100% frontend-based — no backend or database is required.
 
 ---
 
